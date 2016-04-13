@@ -25,12 +25,13 @@ Campinas, São Paulo - Brazil — Oct/2009 - Oct/2010
 I was responsible for installing and configuring computer hardware and Operating Systems, monitoring and maintaining networks, providing client support either over the phone or onsite, troubleshooting and resolving hardware/software faults, managing and installing Server systems, along with another tasks.
 
 ###A SENAI Apprentice as a Maintenance Electrician @ Villares Metals S/A
-Trainee in the industrial instrumentation field. I acquired knowledges on PLCs, AC/DC electric motors, electrical controls, sensors, overall control instruments, electronics and pneumatics. Performed calibration, preventive and corrective maintenances on several measuring instruments, such as: temperature, flow, level, magnetism, pressure, pH , etc. Also assisted in performing furnace temperature uniformity tests.Participation in several internal trainings related to safety, occupational health, environment, “5S” and quality tools, in addition to the trainings conducted by reviewing sector procedures.
+Trainee in the industrial instrumentation field. I acquired knowledges on PLCs, AC/DC electric motors, electrical controls, sensors, overall control instruments, electronics and pneumatics. Performed calibration, preventive and corrective maintenances on several measuring instruments, such as: temperature, flow, level, magnetism, pressure, pH , etc. Also assisted in performing furnace temperature uniformity tests.
+Participation in several internal trainings related to safety, occupational health, environment, “5S” and quality tools, in addition to the trainings conducted by reviewing sector procedures.
 
 -
 
 #I HAVE STUDIED
-###METROCAMP - DEVRY GROUP
+###@ METROCAMP - DEVRY GROUP
 Computer Engineering — 2012 - Present
 Studying advanced computer systems from their architecture to their software, covering since the analog/digital electronics, low level programming, communication to the most advanced technologies.
 
