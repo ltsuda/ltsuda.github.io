@@ -21,10 +21,11 @@ Currently, I perform FXS, xDSL interface test, SIP protocol conformance test and
 * Responsible for configure products before tests
 
 ###An IT Trainee @ Sathi
-Campinas, São Paulo - Brazil — Oct/2009 - Oct/2010
+####Campinas, São Paulo - Brazil — Oct/2009 - Oct/2010
 I was responsible for installing and configuring computer hardware and Operating Systems, monitoring and maintaining networks, providing client support either over the phone or onsite, troubleshooting and resolving hardware/software faults, managing and installing Server systems, along with another tasks.
 
 ###A SENAI Apprentice as a Maintenance Electrician @ Villares Metals S/A
+####Campinas, São Paulo - Brazil — Jul/2007 - Oct/2009
 Trainee in the industrial instrumentation field. I acquired knowledges on PLCs, AC/DC electric motors, electrical controls, sensors, overall control instruments, electronics and pneumatics. Performed calibration, preventive and corrective maintenances on several measuring instruments, such as: temperature, flow, level, magnetism, pressure, pH , etc. Also assisted in performing furnace temperature uniformity tests.
 Participation in several internal trainings related to safety, occupational health, environment, “5S” and quality tools, in addition to the trainings conducted by reviewing sector procedures.
 
@@ -32,13 +33,13 @@ Participation in several internal trainings related to safety, occupational heal
 
 #I HAVE STUDIED
 ###@ METROCAMP - DEVRY GROUP
-Computer Engineering — 2012 - Present
+####Computer Engineering — 2012 - Present
 Studying advanced computer systems from their architecture to their software, covering since the analog/digital electronics, low level programming, communication to the most advanced technologies.
 
 
 
 ###@ COTUCA - Technical High School of Campinas by UNICAMP
-Electronics Technician — 2007 - 2011 (finished)
+####Electronics Technician — 2007 - 2011 (finished)
 Solid education in Mathematics and Electronics. The course was mainly focused on deep electric foundation and advanced calculus techniques.
 
 
